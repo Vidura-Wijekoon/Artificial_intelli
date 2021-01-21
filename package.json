@@ -1,0 +1,23 @@
+{
+  "name": "artificial_intelli",
+  "version": "1.0.0",
+  "description": "Artificial_intelligence api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidura-Wijekoon/Artificial_intelli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidura-Wijekoon/Artificial_intelli/issues"
+  },
+  "homepage": "https://github.com/Vidura-Wijekoon/Artificial_intelli#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
