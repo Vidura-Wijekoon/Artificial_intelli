@@ -1,0 +1,27 @@
+{
+    "Robots":[
+        {
+            "id":0,
+            "name": "Jarvis",
+            "Functionality": "Communication",
+            "Base": [
+                {
+                    "Engine": "AI#021",
+                    "Country": "SriLanka"
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "name": "Ayubot",
+            "Functionality": "Space",
+            "Base": [
+                {
+                    "Engine": "AI#025",
+                    "Country": "SriLanka"
+                }
+            ]
+        }
+    ]
+}
